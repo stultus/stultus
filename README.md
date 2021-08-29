@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My Name is ✨**Hrishikesh Bhaskaran**✨ and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app). 
 
-I am a software engineer, privacy advocate, pythonista and a free software enthusiast. Most of my contributions has been in the language computing space under the aegis of the organisation [Swathathra Malayalam Computing](https://smc.org.in). 
+I am a software engineer, privacy advocate, pythonista and a free software enthusiast. Most of my contributions have been in the language computing space under the aegis of the organisation [Swathathra Malayalam Computing](https://smc.org.in). 
 
 I also contribute to the [PeARS Project](https://pearsproject.org/) - which is an ongoing effort to build a fully distributed, p2p search engine
 
