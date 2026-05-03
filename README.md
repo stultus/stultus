@@ -16,6 +16,8 @@
 
 Software engineer with 14+ years building products and engineering teams. Currently **VP of Engineering at [Entri](https://entri.app)**, a Kochi-based ed-tech startup. Background in telecom and medical software. Beyond the day job — active in free/open-source software and speaking on technology, policy, privacy, and digital rights.
 
+[Read more →](https://stultus.in/about)
+
 ### Free Software & Language Computing
 
 Decade-plus in the FOSS community. Currently contributing to **[PeARS](https://pearsproject.org/)**, a distributed, privacy-respecting search engine. Started through **[Swathanthra Malayalam Computing](https://smc.org.in)**.
