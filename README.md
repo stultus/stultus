@@ -1,38 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hrishikesh Bhaskaran</h1>
 
-<!--
-**stultus/stultus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><em>Developer · Flâneur · Storyteller</em></p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://stultus.in"><img alt="Website" src="https://img.shields.io/badge/Website-stultus.in-0d1117?style=flat-square&labelColor=222"></a>
+  <a href="https://stultus.in/notes"><img alt="Notes" src="https://img.shields.io/badge/Notes-Digital%20Garden-0d1117?style=flat-square&labelColor=222"></a>
+  <a href="https://www.linkedin.com/in/stultus/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-stultus-0d1117?style=flat-square&labelColor=222"></a>
+  <a href="https://twitter.com/_stultus"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-_stultus-0d1117?style=flat-square&labelColor=222"></a>
+  <a href="mailto:hello@stultus.in"><img alt="Email" src="https://img.shields.io/badge/Email-hello%40stultus.in-0d1117?style=flat-square&labelColor=222"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My Name is ✨**Hrishikesh Bhaskaran**✨ and I am a Software Engineer, currently working as the VP of Engineering at [Entri](https://entri.app). 
+---
 
-I am a software engineer, privacy advocate, pythonista and a free software enthusiast. Most of my contributions have been in the language computing space under the aegis of the organisation [Swathathra Malayalam Computing](https://smc.org.in). 
+### About
 
-I also contribute to the [PeARS Project](https://pearsproject.org/) - which is an ongoing effort to build a fully distributed, p2p search engine
+Software engineer with 14+ years building products and engineering teams. Currently **VP of Engineering at [Entri](https://entri.app)**, a Kochi-based ed-tech startup. Background in telecom and medical software. Beyond the day job — active in free/open-source software and speaking on technology, policy, privacy, and digital rights.
 
-You can find more details about me on my [website](https://stultus.in).
+### Free Software & Language Computing
 
-Reach me via [email](mailto:hello@stultus.in) or [Twitter](https://twitter.com/_stultus).
+Decade-plus in the FOSS community. Currently contributing to **[PeARS](https://pearsproject.org/)**, a distributed, privacy-respecting search engine. Started through **[Swathanthra Malayalam Computing](https://smc.org.in)**.
 
-- 🟢 Python 🐍
-- 🟢 Django 
-- 🟢 Software Engineering
-- 🟢 Product
-- 🟢 Language Computing 
-- 🟢 Free & Open Source Software 
-- 🟢 Policy & Law ⚖️
-- 🟢 Books 📚
-- 🟢 Movies 🎥
-- 🟢 Memes / Jokes / Sarcasm 🙃
-- 🟢 Malayalam | മലയാളം
-- 🟢 Dumbledore's Army ⚡
+---
+
+### Tech I reach for
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,rust,typescript,svelte,tauri,hugo,docker,postgres,linux,nginx" /></a>
+</p>
+
+### GitHub at a glance
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=stultus&show_icons=true&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stultus&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d1117&langs_count=8" alt="Top languages" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stultus/stultus/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stultus/stultus/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/stultus/stultus/output/github-snake.svg" />
+</picture>
