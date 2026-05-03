@@ -1,0 +1,39 @@
+name: Generate metrics SVG
+
+on:
+  schedule:
+    # Twice daily — keeps stats fresh without burning action minutes
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/metrics.yml
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate metrics SVG
+        uses: lowlighter/metrics@latest
+        with:
+          # Default GITHUB_TOKEN works for public repos; swap for a PAT later
+          # if you want extended plugins (followers detail, projects, etc.).
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: stultus
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, makefile, dockerfile
+          filename: metrics/metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore(metrics): auto-update metrics SVG"
