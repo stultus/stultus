@@ -27,14 +27,13 @@ Decade-plus in the FOSS community. Currently contributing to **[PeARS](https://p
 ### Tech I reach for
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,rust,typescript,svelte,tauri,hugo,docker,postgres,linux,nginx" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,rust,go,ts,react,svelte,django,flask,tauri,html,docker,postgres,sqlite,redis,nginx,linux,git,github,gitlab,obsidian&perline=10" /></a>
 </p>
 
 ### GitHub at a glance
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=stultus&show_icons=true&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=58a6ff&bg_color=0d1117&include_all_commits=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stultus&layout=compact&hide_border=true&title_color=ffffff&text_color=cccccc&bg_color=0d1117&langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/stultus/stultus/main/metrics/metrics.svg" alt="GitHub metrics" />
 </p>
 
 <picture>
